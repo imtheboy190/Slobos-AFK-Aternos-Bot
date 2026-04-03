@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "red_dead.aternos.me",
+    "ip": "red_dead_redemption.aternos.me",
     "port": 18099,
     "version":1.21.11"",
     "try-creative": false
