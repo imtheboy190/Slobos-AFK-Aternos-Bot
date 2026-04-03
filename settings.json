@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "red_dead_redemption.aternos.me",
+    "port": 18099,
     "version": "",
     "try-creative": false
   },
